@@ -1,0 +1,57 @@
+=== baylor (13 unknowns) ===
+    5  [     Other]  Baylor Scott & White Health Plan
+    2  [     Other]  HealthSmart
+    1  [     Other]  CORVEL
+    1  [     Other]  PHCS
+    1  [     Other]  Prime Health Services
+    1  [     Other]  QuickTrip
+    1  [     Other]  Texas Workforce Commission
+    1  [     Other]  TriWest
+
+=== methodist (27 unknowns) ===
+    2  [     Other]  WEB TPA [3049]
+    1  [     Other]  90 DEGREE BENEFIT [3057]
+    1  [     Other]  ALTERNATIVE SERVICE CONCEPTS [8005]
+    1  [     Other]  AMBETTER SUPERIOR [3051]
+    1  [     Other]  BRIGHT HEALTHCARE [2222]
+    1  [     Other]  COVID19 HRSA UNINSURED TESTING AND TREATMENT FUND [6005]
+    1  [     Other]  DART MEMBER CARE [3039]
+    1  [     Other]  DEPARTMENT OF LABOR [8004]
+    1  [     Other]  ENTRUST/90 DEGREE [2058]
+    1  [     Other]  ALLIED NATIONAL [2031]
+    1  [     Other]  EVRY HEALTH [1013]
+    1  [     Other]  FRIDAY HEALTH PLAN [2061]
+    1  [     Other]  GLOBALHEALTH [1003]
+    1  [     Other]  GENERIC WORKERS COMP TX PAR [8002]
+    1  [     Other]  HEALTHSCOPE BENEFITS [2052]
+    1  [     Other]  HEALTHSCOPE BENEFITS [3063]
+    1  [     Other]  IMPERIAL INSURANCE COMPANIES [3073]
+    1  [     Other]  HEALTH PLANS INC [5017]
+    1  [     Other]  KEMPTON GROUP ADMINISTRATORS, TOWER EXTRUSIONS [3061]
+    1  [     Other]  MEDICAL COST CONTAINMENT PROFESSIONALS [3059]
+    1  [     Other]  SANA BENEFITS [2069]
+    1  [     Other]  PROVIDER PARTNERS HEALTH PLAN [7025]
+    1  [     Other]  SCOTT & WHITE HEALTH PLAN TRS [3062]
+    1  [     Other]  VELOCITY [3070]
+    1  [     Other]  VIBRA SPECIALITY [9216]
+    1  [     Other]  WELLPOINT MARKETPLACE EXCHANGE [3071]
+
+=== parkland (6 unknowns) ===
+    1  [     Other]  CARE IMPROVEMENT PLUS [1104]
+    1  [     Other]  GREAT WEST HEALTHCARE [1037]
+    1  [     Other]  POINT COMFORT UNDERWRITERS [1801]
+    1  [     Other]  PROCARE ADVANTAGE [2104]
+    1  [     Other]  TRIWEST HEALTHCARE ALLIANCE [1409]
+    1  [     Other]  WELLCARE OF TEXAS [1330]
+
+=== texas_health_plano (1 unknowns) ===
+    1  [     Other]  ChoiceCare
+
+=== medical_city_alliance (12 unknowns) ===
+    5  [     Other]  "United"
+    2  [    Molina]  "Molina"
+    1  [     Other]  "Amerigroup"
+    1  [     Other]  "Healthcare Highways"
+    1  [     Other]  "Independent Medical Systems"
+    1  [     Other]  "National Healthcare Solutions"
+    1  [     Other]  "Parkland Community Health Plan"

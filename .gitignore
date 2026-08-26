@@ -19,7 +19,7 @@ data/
 *.csv
 *.parquet
 *.json
-!data/.gitkeep
+!data/**/.gitkeep
 
 # IDEs
 .vscode/
@@ -32,3 +32,14 @@ Thumbs.db
 # Secrets
 .env
 *.key
+
+# Data files - never commit raw or processed data
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# DuckDB files anywhere in the project (safety net)
+*.duckdb
+*.duckdb.wal
+*.duckdb.tmp

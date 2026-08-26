@@ -1,0 +1,101 @@
+payer_group and payer_type vs v1 lob classification, per hospital
+======================================================================
+
+=== baylor (n=45) ===
+  payer_group: 45/45 populated (100%), 7 distinct values
+lob               aca_exchange  commercial  medicaid_chip  medicaid_other  medicare_advantage  medicare_traditional  unknown
+payer_group                                                                                                                 
+Other                        1           6              1               1                   3                     2       13
+BCBS                         0           2              0               0                   1                     0        3
+UnitedHealthcare             0           1              0               0                   1                     0        2
+Cigna                        0           1              0               0                   1                     0        1
+Aetna                        0           1              0               0                   1                     0        0
+Humana                       0           1              0               0                   0                     1        0
+Molina                       0           0              0               0                   1                     0        0
+
+  payer_type: 45/45 populated (100%), 2 distinct values
+lob         aca_exchange  commercial  medicaid_chip  medicaid_other  medicare_advantage  medicare_traditional  unknown
+payer_type                                                                                                            
+Other                  1           6              1               1                   3                     2       13
+Commercial             0           6              0               0                   5                     1        6
+
+
+=== methodist (n=82) ===
+  payer_group: 82/82 populated (100%), 9 distinct values
+lob               aca_exchange  commercial  medicaid_star  medicaid_star_plus  medicare_advantage  medicare_traditional  unknown
+payer_group                                                                                                                     
+Other                        0           2              0                   0                   0                     5       27
+Aetna                        1           2              0                   0                   0                     0        9
+BCBS                         0           2              0                   0                   1                     1        5
+Medicare                     0           0              0                   0                   0                     7        2
+UnitedHealthcare             1           0              0                   1                   0                     4        1
+Cigna                        0           0              0                   0                   0                     1        2
+Humana                       0           0              0                   0                   0                     3        0
+Molina                       1           0              0                   1                   0                     1        0
+Medicaid                     0           0              1                   1                   0                     0        0
+
+  payer_type: 82/82 populated (100%), 4 distinct values
+lob         aca_exchange  commercial  medicaid_star  medicaid_star_plus  medicare_advantage  medicare_traditional  unknown
+payer_type                                                                                                                
+Commercial             3           4              0                   2                   1                    10       17
+Other                  0           2              0                   0                   0                     5       27
+Medicare               0           0              0                   0                   0                     7        2
+Medicaid               0           0              1                   1                   0                     0        0
+
+
+=== parkland (n=65) ===
+  payer_group: 65/65 populated (100%), 7 distinct values
+lob               aca_exchange  commercial  medicaid_chip  medicaid_other  medicaid_star  medicaid_star_plus  medicare_advantage  unknown
+payer_group                                                                                                                              
+Other                        0           1             10               3              6                   2                   2        6
+Molina                       1           0              4               3              1                   1                   1        0
+BCBS                         1           2              0               0              0                   0                   0        3
+Medicare                     0           0              0               3              0                   0                   3        0
+Aetna                        0           0              3               0              1                   0                   0        1
+UnitedHealthcare             0           0              0               0              0                   0                   1        4
+Cigna                        0           0              0               0              0                   0                   0        2
+
+  payer_type: 65/65 populated (100%), 3 distinct values
+lob         aca_exchange  commercial  medicaid_chip  medicaid_other  medicaid_star  medicaid_star_plus  medicare_advantage  unknown
+payer_type                                                                                                                         
+Other                  0           1             10               3              6                   2                   2        6
+Commercial             2           2              7               3              2                   1                   2       10
+Medicare               0           0              0               3              0                   0                   3        0
+
+
+=== texas_health_plano (n=40) ===
+  payer_group: 40/40 populated (100%), 7 distinct values
+lob               aca_exchange  commercial  medicare_traditional  unknown
+payer_group                                                              
+Other                        1           1                    11        1
+BCBS                         0           2                     3        3
+Aetna                        0           0                     2        5
+UnitedHealthcare             0           1                     2        1
+Cigna                        0           1                     0        2
+Molina                       0           0                     2        0
+Humana                       0           0                     2        0
+
+  payer_type: 40/40 populated (100%), 2 distinct values
+lob         aca_exchange  commercial  medicare_traditional  unknown
+payer_type                                                         
+Commercial             0           4                    11       11
+Other                  1           1                    11        1
+
+
+=== medical_city_alliance (n=46) ===
+  payer_group: 46/46 populated (100%), 6 distinct values
+lob          aca_exchange  commercial  medicaid_chip  medicaid_star  medicaid_star_plus  unknown
+payer_group                                                                                     
+Other                   1           1              3              2                   1       10
+BCBS                    0           1              0              0                   0        9
+Aetna                   0           0              1              0                   0        8
+Molina                  0           0              1              1                   0        2
+Cigna                   0           0              0              0                   0        3
+Humana                  0           0              0              0                   0        2
+
+  payer_type: 46/46 populated (100%), 2 distinct values
+lob         aca_exchange  commercial  medicaid_chip  medicaid_star  medicaid_star_plus  unknown
+payer_type                                                                                     
+Commercial             0           1              2              1                   0       24
+Other                  1           1              3              2                   1       10
+

@@ -1,0 +1,12 @@
+=== baylor (1 unknowns) ===
+    1  [     Other]  QuickTrip
+
+=== medical_city_alliance (2 unknowns) ===
+    2  [    Molina]  "Molina"
+
+=== methodist (4 unknowns) ===
+    1  [     Other]  ALLIED NATIONAL [2031]
+    1  [     Other]  HEALTH PLANS INC [5017]
+    1  [     Other]  SANA BENEFITS [2069]
+    1  [     Other]  VIBRA SPECIALITY [9216]
+

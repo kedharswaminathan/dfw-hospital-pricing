@@ -1,0 +1,92 @@
+Distinct payer_names in v1 'unknown' bucket, per hospital
+======================================================================
+
+=== baylor (19 unknown combos, 11 distinct payers) ===
+    5  Baylor Scott & White Health Plan
+    3  Blue Cross Blue Shield
+    2  HealthSmart
+    2  United Healthcare
+    1  CORVEL
+    1  PHCS
+    1  Cigna
+    1  Prime Health Services
+    1  QuickTrip
+    1  Texas Workforce Commission
+    1  TriWest
+
+=== methodist (46 unknown combos, 37 distinct payers) ===
+    5  BCBS [3001]
+    3  AETNA MANAGED CARE [2068]
+    2  AETNA COMMERCIAL [2042]
+    2  AETNA [3000]
+    2  WEB TPA [3049]
+    1  AETNA TRANSPLANT NETWORK [3025]
+    1  AETNA MEDICARE MANAGED CARE [7000]
+    1  90 DEGREE BENEFIT [3057]
+    1  ALTERNATIVE SERVICE CONCEPTS [8005]
+    1  AMBETTER SUPERIOR [3051]
+    1  BRIGHT HEALTHCARE [2222]
+    1  CIGNA MEDICARE [7011]
+    1  ALLIED NATIONAL [2031]
+    1  COVID19 HRSA UNINSURED TESTING AND TREATMENT FUND [6005]
+    1  DART MEMBER CARE [3039]
+    1  DEPARTMENT OF LABOR [8004]
+    1  ENTRUST/90 DEGREE [2058]
+    1  EVRY HEALTH [1013]
+    1  FRIDAY HEALTH PLAN [2061]
+    1  GENERIC WORKERS COMP TX PAR [8002]
+    1  CIGNA [3004]
+    1  GLOBALHEALTH [1003]
+    1  HEALTH PLANS INC [5017]
+    1  HEALTHSCOPE BENEFITS [3063]
+    1  HEALTHSCOPE BENEFITS [2052]
+    1  KEMPTON GROUP ADMINISTRATORS, TOWER EXTRUSIONS [3061]
+    1  MEDICAL COST CONTAINMENT PROFESSIONALS [3059]
+    1  MULTIPLAN MEDICARE MANAGED CARE [7022]
+    1  IMPERIAL INSURANCE COMPANIES [3073]
+    1  MUTUAL OF OMAHA MEDICARE MANAGED CARE [7019]
+    1  PROVIDER PARTNERS HEALTH PLAN [7025]
+    1  SCOTT & WHITE HEALTH PLAN TRS [3062]
+    1  SANA BENEFITS [2069]
+    1  UNITED HEALTHCARE MEDICARE MANAGED CARE [7010]
+    1  VELOCITY [3070]
+    1  VIBRA SPECIALITY [9216]
+    1  WELLPOINT MARKETPLACE EXCHANGE [3071]
+
+=== parkland (16 unknown combos, 12 distinct payers) ===
+    3  BLUE CROSS BLUE SHIELD [1012]
+    3  UNITED HEALTHCARE OF TX [1079]
+    1  CARE IMPROVEMENT PLUS [1104]
+    1  AETNA HEALTHCARE [1004]
+    1  CIGNA PARKLAND HEALTH EMPLOYEES [1094]
+    1  CIGNA [1021]
+    1  POINT COMFORT UNDERWRITERS [1801]
+    1  GREAT WEST HEALTHCARE [1037]
+    1  PROCARE ADVANTAGE [2104]
+    1  TRIWEST HEALTHCARE ALLIANCE [1409]
+    1  UNITED HEALTHCARE MEDICARE ADVANTAGE [1315]
+    1  WELLCARE OF TEXAS [1330]
+
+=== texas_health_plano (12 unknown combos, 6 distinct payers) ===
+    3  BCBS
+    3  Texas Health Aetna
+    2  Aetna
+    2  Cigna
+    1  ChoiceCare
+    1  UHC
+
+=== medical_city_alliance (34 unknown combos, 14 distinct payers) ===
+    9  "BCBS"
+    6  "Aetna"
+    5  "United"
+    2  "Humana"
+    2  "Cigna"
+    2  "Molina"
+    1  "Cigna Healthspring"
+    1  "Amerigroup"
+    1  "Aetna Better Health"
+    1  "Aetna Coventry First Health"
+    1  "Independent Medical Systems"
+    1  "Healthcare Highways"
+    1  "National Healthcare Solutions"
+    1  "Parkland Community Health Plan"
